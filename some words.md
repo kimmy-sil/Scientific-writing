@@ -21,3 +21,8 @@ The amount of a substance contained in something else. It may be either countabl
 In the plural, “contents” refer to the things contained in something:In a concrete sense. We can speak of the “contents of a bag”, “contents of a bottle”, “contents of the stomach”, etc., for instance,
 In an abstract sense. Traditionally, pieces of information contained in a written document are called its “contents”. You may say,
 She has lost the letter and remained unaware of its contents.
+
+**Boundaries and border**  
+Boundaries are more like a line, border could be line or areas.
+
+**Depict and characterize**
